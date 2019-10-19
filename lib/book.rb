@@ -32,6 +32,7 @@ lass Book
     @genre
   end
   
+  
  
 end
 
